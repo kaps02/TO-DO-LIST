@@ -3,6 +3,11 @@ DAILY TASK ROUTINE
 1 waje up early
 2 breakfirst
 3 study
+  a 2h
+  b 3h
+  c 4h
+  d weekend
+
 4 sleep
 5 walk
 6 gym
