@@ -1,2 +1,9 @@
 DAILY TASK ROUTINE
   WELCOME
+1 waje up early
+2 breakfirst
+3 study
+4 sleep
+5 walk
+6 gym
+7 dinner
